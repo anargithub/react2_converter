@@ -1,0 +1,13 @@
+.form{
+    width: 450px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.form1{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
